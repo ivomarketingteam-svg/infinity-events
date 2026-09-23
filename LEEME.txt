@@ -1,0 +1,7 @@
+INFINITY EVENTS — Sitio web de los salones A, B y C
+
+Para verlo: abrí index.html en un navegador. Para publicarlo gratis en GitHub Pages, subí el contenido de esta carpeta (index.html y assets/) a un repositorio y activá Pages en Settings > Pages, desde la rama principal y la carpeta raíz. No subas el archivo ZIP sin descomprimir.
+
+El dominio infinityevents.com.ar no está registrado ni configurado mediante este archivo. La web todavía no está publicada en Internet.
+
+Fotos: A 7 fotografías únicas (3 de las 10 recibidas eran repeticiones); B 10; C 7. Se usaron las fotografías que enviaste.
